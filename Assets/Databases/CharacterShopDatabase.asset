@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8f3d47fda673d54e83e5453151194ed, type: 3}
+  m_Name: CharacterShopDatabase
+  m_EditorClassIdentifier: 
+  characters:
+  - pencilModel: {fileID: -3906904106408977448, guid: 66d773d1eddac41439d8f94f373d8021, type: 3}
+    characterImg: {fileID: 21300000, guid: aa1730b3c2f2ec0428b20a5340b6d268, type: 3}
+    isPurchased: 1
+  - pencilModel: {fileID: 8083527901911681752, guid: f3eab1ee0176f4641aa4b5c88d8d8535, type: 3}
+    characterImg: {fileID: 21300000, guid: 30b325aeb8b75824bab0a0b64f6d3306, type: 3}
+    isPurchased: 0
+  - pencilModel: {fileID: 9200977134836117478, guid: d26740fbc733b5f4baf414d86d41981a, type: 3}
+    characterImg: {fileID: 21300000, guid: c69ffb359fa98f44d9729e80dfdb15a4, type: 3}
+    isPurchased: 0
+  - pencilModel: {fileID: 9200575122934039282, guid: 540e9494fdfbde3479df63b76630e223, type: 3}
+    characterImg: {fileID: 21300000, guid: f9029a89b662bc042a697234a6d61af1, type: 3}
+    isPurchased: 0
+  - pencilModel: {fileID: 4386827666468233504, guid: 63eadb308897ec742be79ee3cf6a5894, type: 3}
+    characterImg: {fileID: 21300000, guid: 0d1cddf2ee6f5504ebcfbfb505d12e92, type: 3}
+    isPurchased: 0
+  - pencilModel: {fileID: 1632283527216795503, guid: bd767cfbafbe397409bb3f515af71adf, type: 3}
+    characterImg: {fileID: 21300000, guid: 0bd3ca8100cd70f49b0979367e7ce027, type: 3}
+    isPurchased: 0
+  - pencilModel: {fileID: 9033822575312850400, guid: 0131955741745b64f9bf1cbe00f40f2c, type: 3}
+    characterImg: {fileID: 21300000, guid: d9d994c4b88e9304ba8bdbb5b6f201a6, type: 3}
+    isPurchased: 0
+  - pencilModel: {fileID: 6064390927266618598, guid: 1fbf4cc00da8ea54fb955f4131bee56b, type: 3}
+    characterImg: {fileID: 21300000, guid: edd08600d017c9e47bc23339419ddafe, type: 3}
+    isPurchased: 0
+  - pencilModel: {fileID: 96136433655917116, guid: 7a10035e2924b2b4084603e35c0d806d, type: 3}
+    characterImg: {fileID: 21300000, guid: 65faf609f49b85a41afc3d7bee4e6d45, type: 3}
+    isPurchased: 0
